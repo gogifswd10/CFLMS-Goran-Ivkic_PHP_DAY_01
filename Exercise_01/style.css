@@ -1,0 +1,12 @@
+/*Exercise 1
+Print your name in an h1 HTML element using PHP (define the variable and store your name into it). Use external CSS to position your name in the middle of the screen (horizontal, vertical).*/
+
+h1 {
+	display: flex;
+    justify-content: center;
+}	
+
+#wrapper {
+	height: 100%;
+	margin-top: 20%;
+}
